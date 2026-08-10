@@ -7,7 +7,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:8B0000,100:0D0D0D&height=2"/>
 
-<img src="assets/skull.svg" width="220" alt="skull and crossbones"/>
+<img src="assets/skull-ascii.png" width="220" height="280" style="display:block;margin:0 auto;" alt="ASCII skull"/>
 
 <sub><code>daks-2k25@github:~$ whoami --ascii</code></sub>
 

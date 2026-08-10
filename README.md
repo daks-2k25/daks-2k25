@@ -1,44 +1,15 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:6B0000,100:FF0000&height=220&section=header&text=daks-2k25&fontSize=62&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Full-stack%20developer%20in%20training%20//%20ADS%20student&descAlignY=58&descSize=18&descColor=FFB4B4" alt="header banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:6B0000,100:FF0000&height=220&section=header&animation=fadeIn" alt="header banner"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=72&duration=1&pause=100000&color=FF3B30&center=true&vCenter=true&width=500&height=80&lines=daks-2k25" alt="daks-2k25"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1&pause=100000&color=FFB4B4&center=true&vCenter=true&width=560&height=30&lines=Full-stack+developer+in+training+%2F%2F+ADS+student" alt="subtitle"/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:8B0000,100:0D0D0D&height=2"/>
 
-```text
-                                         .:-==+***####***+==-:.
-                                    .-+*#%@@@@@@@@@@@@@@@@@@@@%#*+-:
-                                .-*%@@@@@@@%%%%%%%%%%%%%%%%%%@@@@@@@%*=.
-                             .=#%@@@%%%%%%@@@@@@@@@@@@@@@@@@@@%%%%%%@@@@#=.
-                           .+%@@%%%@@@@%%%%@@@@@@@@@@@@@@@@@@%%%%@@@@%%%@@%*:
-                          +%@@@@@@%%%%@@@@@%@@@@@@@@@@@@@@@@%@@@@@%%%%@@@@@@@+.
-                        :#@%@@#=-..  ..:-+#@@@@@@@@@@@@@@@@%@#+-:..  ..:=*@@%@%-
-                       -%@%%%:             -%%@@@@@@@@@@@@%@=             .#%%@@-
-                      .%%%%%#              :%%%@@@@@@@@@@@%@:              #%%%%@:
-                      *@%@@%@%-           =%%%@@@@@@@@@@@@%%@+           :%@%@@%%#
-                     .%%%@@%%%.           -@%@@@@@@@@@@@@@@%@=            %%%@@%@:
-                     .@%@@@%@%            .%%@@@@@@%%@@@@@@%@:            #@%@@%%@:
-                      %@%@@@%%:           =@%@@@@@%@@%@@@@@%@+           .%%%@@%%%.
-                     .%%@@%@%%#.         :%%%@@@@%@=-@%@@@@@%%-          #@%@%@@%%:
-                     .@%@%@@%%@%=      .+%@%@@@@%@+  =@%@@@@%%@+.      -#@%%@@%%%@:
-  ::.                .@%#=*%@%%@@%*++*#%@@%@@@@%@+    +@%@@@@@%@@#*++*%@@%%@@#=*%@:                .::
-:%@@%+               .@%%%#=*@@%%@@@@@@@%%@@@@%@+      =%%@@@@@%@@@@@@@%%@@*=#%%%@:               +%@@%:
--@@@@@+:            .+%%@%@*.:#@@%%%%%%%@@@@@%%#::::::::#%%@@@@@%%%%%%%@@#- *@%@%%+.            .=@@@@@-
- .-==#@@#=.      .=#@@%@@@%@%=.-#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@%- -%@%@@@%@@#=.       -*@@#+=-.
-      :+%@@*-  -*@@%+-%%%%%%@@%- =%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%+ -#@@%%%%%%=+%@@*:  :+%@@*:
-         -*%@##@@*-  .@@@@@@@%@@#*%%***-=**==**==**=-**=-**+-**+-***#@##@@%@@@@@@@:  -*@@##@@*-.
-          -#@@@@%-    :::::-%@%%@@@@@@@=+@@++@@+=@@*=@@*=@@#-@@#-@@@@@@@%%@%=:::::    -#@@@@%-
-       :+@@%*::+%@@*:        +@@%%@%%%%=+%%++%%+=%%*=%%*=%%#-%%#-%%%%@%%@@*.       :+%@%*-:*%@@+:
-  ...=#@@#-.     -*@@%+:..    :#@@%@@%@=+@@++@@+=@@*=@@*=@@#-@@#-@%@@%%@#-    ...=#@@#=.    .-#@@#=...
-:#%%%@%+.          .=%@@%%#.    =%@%@%@=+@@++@@+=@@*=@@*-@@*-@@#-@%@%@@+    .#%%%@%+:          .+%@%%%#:
-=@@@@#                #@@@@-     .#@%%%#%@@##@@%#@@%#@@%#@@%#@@%#%%%@#:     -@@@@#                #@@@@=
- :++=                  =+=:       -%%@@@@@%@@%%@@%%@@%%@@%%@@%@@@@@@%=       :=+=                  =++:
-                                    .=+#%%@@@@@@@@@@@@@@@@@@@@@%#*=.
-                                         .:-=++**######**++=--.
-```
+<img src="assets/skull.svg" width="220" alt="skull and crossbones"/>
 
-<sub><code>daks-2k25@github:~$ display ./avatar.png</code></sub>
-
-<img src="https://avatars.githubusercontent.com/u/244599281?v=4&s=240" width="150" height="150" alt="daks-2k25"/>
+<sub><code>daks-2k25@github:~$ whoami --ascii</code></sub>
 
 ```text
 root@daks-2k25:~$ whoami
@@ -156,12 +127,56 @@ Sistema full-stack de prospecção de leads: busca e captura informações comer
 
 ## `$ ls -la projects/`
 
-| Projeto | Descrição | Stack | Link |
-|---|---|---|---|
-| **Vittace** | Landing page institucional para clínica de odontologia e estética facial | Next.js · TypeScript · TailwindCSS | [repo](https://github.com/daks-2k25/Vittace) · [demo](https://vittace.vercel.app) |
-| **sistema-caixa-eletronico-python** | Simulação de caixa eletrônico via terminal — projeto do 1º período de ADS para praticar lógica de programação | Python | [repo](https://github.com/daks-2k25/sistema-caixa-eletronico-python) |
-| **calculadora-medias-python** | Calculadora de médias com tratamento de erros | Python | [repo](https://github.com/daks-2k25/calculadora-medias-python) |
-| **Gerenciador-agenda-contatos** | Gerenciador de agenda de contatos *(em desenvolvimento)* | Python | [repo](https://github.com/daks-2k25/Gerenciador-agenda-contatos) |
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**🔴 Vittace**
+
+Landing page institucional para clínica de odontologia e estética facial.
+
+<img src="https://img.shields.io/badge/Next.js-0D0D0D?style=flat-square&logo=nextdotjs&logoColor=FF3B30"/> <img src="https://img.shields.io/badge/TypeScript-0D0D0D?style=flat-square&logo=typescript&logoColor=FF3B30"/> <img src="https://img.shields.io/badge/TailwindCSS-0D0D0D?style=flat-square&logo=tailwindcss&logoColor=FF3B30"/>
+
+[`repo`](https://github.com/daks-2k25/Vittace) · [`demo`](https://vittace.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+**🔴 sistema-caixa-eletronico-python**
+
+Simulação de caixa eletrônico via terminal — projeto do 1º período de ADS para praticar lógica de programação.
+
+<img src="https://img.shields.io/badge/Python-0D0D0D?style=flat-square&logo=python&logoColor=FF3B30"/>
+
+[`repo`](https://github.com/daks-2k25/sistema-caixa-eletronico-python)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🔴 calculadora-medias-python**
+
+Calculadora de médias com tratamento de erros.
+
+<img src="https://img.shields.io/badge/Python-0D0D0D?style=flat-square&logo=python&logoColor=FF3B30"/>
+
+[`repo`](https://github.com/daks-2k25/calculadora-medias-python)
+
+</td>
+<td width="50%" valign="top">
+
+**🟡 Gerenciador-agenda-contatos** <sub>*(em desenvolvimento)*</sub>
+
+Gerenciador de agenda de contatos.
+
+<img src="https://img.shields.io/badge/Python-0D0D0D?style=flat-square&logo=python&logoColor=FF3B30"/>
+
+[`repo`](https://github.com/daks-2k25/Gerenciador-agenda-contatos)
+
+</td>
+</tr>
+</table>
 
 <details>
 <summary>📦 ver todos os repositórios</summary>
@@ -177,12 +192,17 @@ Sistema full-stack de prospecção de leads: busca e captura informações comer
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=daks-2k25&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FF3B30&icon_color=FF3B30&text_color=E8E8E8&ring_color=FF0000" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daks-2k25&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FF3B30&text_color=E8E8E8&langs_count=8" alt="Top Languages" height="165"/>
+<img src="https://img.shields.io/github/followers/daks-2k25?style=for-the-badge&labelColor=0D0D0D&color=8B0000&label=FOLLOWERS" alt="followers"/>
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0D0D0D&color=8B0000&label=REPOS&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdaks-2k25&query=%24.public_repos" alt="public repos"/>
+<img src="https://img.shields.io/github/languages/top/daks-2k25/daks-2k25?style=for-the-badge&labelColor=0D0D0D&color=8B0000&label=TOP+LANG" alt="top language"/>
 
 <img src="https://streak-stats.demolab.com/?user=daks-2k25&hide_border=true&background=0D0D0D&stroke=FF0000&ring=FF3B30&fire=FF0000&currStreakLabel=FF3B30&sideLabels=E8E8E8&dates=8B0000&currStreakNum=E8E8E8&sideNums=E8E8E8" alt="GitHub Streak"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=daks-2k25&bg_color=0D0D0D&color=FF3B30&line=FF0000&point=FFFFFF&area=true&area_color=FF0000&hide_border=true" alt="Contribution Activity"/>
+
+<sub><code>daks-2k25@github:~$ cat contributions.map</code></sub>
+
+<img src="https://ghchart.rshah.org/FF3B30/daks-2k25" alt="contribution squares" width="100%"/>
 
 </div>
 
@@ -193,6 +213,7 @@ Sistema full-stack de prospecção de leads: busca e captura informações comer
 <div align="center">
 
 <a href="https://github.com/daks-2k25"><img src="https://img.shields.io/badge/GITHUB-@daks--2k25-0D0D0D?style=for-the-badge&logo=github&logoColor=FF3B30" alt="GitHub"/></a>
+<a href="mailto:thiagofreitasdelima9@gmail.com"><img src="https://img.shields.io/badge/EMAIL-thiagofreitasdelima9@gmail.com-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FF3B30" alt="Email"/></a>
 
 </div>
 

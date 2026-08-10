@@ -32,13 +32,13 @@ root@daks-2k25:~$ whoami
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:8B0000,100:0D0D0D&height=2"/>
 
 <a href="https://github.com/daks-2k25">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=FF3B30&center=true&vCenter=true&width=600&height=40&lines=root%40daks-2k25%3A~%24+whoami;Thiago+Freitas+%E2%80%94+dev+full-stack;root%40daks-2k25%3A~%24+status;buscando+est%C3%A1gio+%2B+construindo+projetos" alt="typing banner"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=FF3B30&center=true&vCenter=true&width=600&height=40&lines=root%40daks-2k25%3A~%24+whoami;Thiago+Freitas+%E2%80%94+dev+full-stack;root%40daks-2k25%3A~%24+status;estagiando+dev+j%C3%BAnior+%2B+construindo+projetos" alt="typing banner"/>
 </a>
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=daks-2k25&style=for-the-badge&color=0D0D0D&label=PROFILE+VIEWS&labelColor=0D0D0D" alt="profile views"/>
-<img src="https://img.shields.io/badge/STATUS-OPEN_TO_INTERNSHIP-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=FF0000" alt="open to internship"/>
+<img src="https://img.shields.io/badge/STATUS-ESTAGIANDO_DEV_J%C3%9ANIOR-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=FF0000" alt="estagiando dev junior"/>
 <img src="https://img.shields.io/github/languages/top/daks-2k25/daks-2k25?style=for-the-badge&labelColor=0D0D0D&color=8B0000" alt="top language"/>
 
 </div>
@@ -51,7 +51,7 @@ root@daks-2k25:~$ whoami
 daks-2k25@github:~$ cat about.md
 
 Estudante de Análise e Desenvolvimento de Sistemas (ADS) — 2º semestre de 4.
-Em busca de estágio na área para aprender, evoluir e construir coisas reais.
+Estagiando como desenvolvedor júnior, aprendendo, evoluindo e construindo coisas reais.
 
 > full-stack: Next.js / React no front, Node.js / NestJS no back
 > gosto de tirar ideia do papel e colocar em produção
@@ -203,6 +203,10 @@ Gerenciador de agenda de contatos.
 <sub><code>daks-2k25@github:~$ cat contributions.map</code></sub>
 
 <img src="https://ghchart.rshah.org/FF3B30/daks-2k25" alt="contribution squares" width="100%"/>
+
+<sub><code>daks-2k25@github:~$ ./defend_commits.sh</code></sub>
+
+<img src="assets/ship-shooter.svg" width="100%" alt="ship shooting the commit squares"/>
 
 </div>
 

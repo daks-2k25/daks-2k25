@@ -1,9 +1,10 @@
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:6B0000,100:FF0000&height=220&section=header&animation=fadeIn" alt="header banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=VT323&size=72&duration=1&pause=100000&color=FF3B30&center=true&vCenter=true&width=500&height=80&lines=daks-2k25" alt="daks-2k25"/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1&pause=100000&color=FFB4B4&center=true&vCenter=true&width=560&height=30&lines=Full-stack+developer+in+training+%2F%2F+ADS+student" alt="subtitle"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1&pause=100000&color=FFB4B4&center=true&vCenter=true&width=560&height=30&lines=Estagi%C3%A1rio+em+desenvolvimento+%2F%2F+Estudante+de+ADS" alt="subtitle"/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:8B0000,100:0D0D0D&height=2"/>
 
@@ -32,14 +33,13 @@ root@daks-2k25:~$ whoami
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:8B0000,100:0D0D0D&height=2"/>
 
 <a href="https://github.com/daks-2k25">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=FF3B30&center=true&vCenter=true&width=600&height=40&lines=root%40daks-2k25%3A~%24+whoami;Thiago+Freitas+%E2%80%94+dev+full-stack;root%40daks-2k25%3A~%24+status;estagiando+dev+j%C3%BAnior+%2B+construindo+projetos" alt="typing banner"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=FF3B30&center=true&vCenter=true&width=600&height=40&lines=root%40daks-2k25%3A~%24+whoami;Thiago+Freitas+%E2%80%94+estagi%C3%A1rio+em+dev;root%40daks-2k25%3A~%24+status;estagiando+em+dev+%2B+construindo+projetos" alt="typing banner"/>
 </a>
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=daks-2k25&style=for-the-badge&color=0D0D0D&label=PROFILE+VIEWS&labelColor=0D0D0D" alt="profile views"/>
-<img src="https://img.shields.io/badge/STATUS-ESTAGIANDO_DEV_J%C3%9ANIOR-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=FF0000" alt="estagiando dev junior"/>
-<img src="https://img.shields.io/github/languages/top/daks-2k25/daks-2k25?style=for-the-badge&labelColor=0D0D0D&color=8B0000" alt="top language"/>
+<img src="https://img.shields.io/badge/STATUS-ESTAGIANDO_EM_DEV-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=FF0000" alt="estagiando em dev"/>
 
 </div>
 
@@ -50,10 +50,15 @@ root@daks-2k25:~$ whoami
 ```bash
 daks-2k25@github:~$ cat about.md
 
-Estudante de Análise e Desenvolvimento de Sistemas (ADS) — 2º semestre de 4.
-Estagiando como desenvolvedor júnior, aprendendo, evoluindo e construindo coisas reais.
+Estudante de Análise e Desenvolvimento de Sistemas (ADS) — Universidade Positivo,
+2º período, previsão de conclusão em 09/2028.
+Estagiário em desenvolvimento na CWbranding, criando landing pages, sites
+institucionais, sistemas e lojas virtuais.
 
-> full-stack: Next.js / React no front, Node.js / NestJS no back
+> full-stack em formação: Next.js / React no front, Node.js / NestJS no back
+> uso IA como ferramenta de desenvolvimento e faço à mão os ajustes finos
+  (imagens, textos, tamanhos de fonte, layout)
+> estudo por conta própria, além da faculdade
 > gosto de tirar ideia do papel e colocar em produção
 ```
 
@@ -92,6 +97,8 @@ Estagiando como desenvolvedor júnior, aprendendo, evoluindo e construindo coisa
 <img src="https://img.shields.io/badge/VS_Code-0D0D0D?style=for-the-badge&logo=visualstudiocode&logoColor=FF3B30" alt="VS Code"/>
 <img src="https://img.shields.io/badge/Vercel-0D0D0D?style=for-the-badge&logo=vercel&logoColor=FF3B30" alt="Vercel"/>
 
+<sub>HTML5 e CSS3 em nível básico · JavaScript, Next.js e NestJS em aprendizado · IA como apoio no desenvolvimento</sub>
+
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:8B0000,100:0D0D0D&height=3"/>
@@ -106,7 +113,7 @@ Estagiando como desenvolvedor júnior, aprendendo, evoluindo e construindo coisa
 
 </div>
 
-Sistema full-stack de prospecção de leads: busca e captura informações comerciais do Google Maps por termo, cidade, bairro e categoria, organiza os resultados em um painel e permite exportar tudo.
+Sistema full-stack de prospecção de leads: busca e captura informações comerciais do Google Maps por termo, cidade, bairro e categoria, organiza os resultados em um painel e permite exportar tudo. Desenvolvido com apoio de IA.
 
 - 🔍 Busca de leads com filtros por termo, cidade, bairro e categoria
 - 📊 Painel com total de leads, leads com telefone e leads com site
@@ -131,13 +138,85 @@ Sistema full-stack de prospecção de leads: busca e captura informações comer
 <tr>
 <td width="50%" valign="top">
 
+**🔴 Sensorahome**
+
+Loja virtual (e-commerce) desenvolvida com Next.js e NestJS, com apoio de IA e ajustes manuais de conteúdo e layout.
+
+<img src="https://img.shields.io/badge/Next.js-0D0D0D?style=flat-square&logo=nextdotjs&logoColor=FF3B30"/> <img src="https://img.shields.io/badge/NestJS-0D0D0D?style=flat-square&logo=nestjs&logoColor=FF3B30"/>
+
+[`site`](https://www.sensorahome.com.br/)
+
+</td>
+<td width="50%" valign="top">
+
 **🔴 Vittace**
 
-Landing page institucional para clínica de odontologia e estética facial.
+Landing page institucional para clínica de odontologia e estética facial, desenvolvida com apoio de IA.
 
 <img src="https://img.shields.io/badge/Next.js-0D0D0D?style=flat-square&logo=nextdotjs&logoColor=FF3B30"/> <img src="https://img.shields.io/badge/TypeScript-0D0D0D?style=flat-square&logo=typescript&logoColor=FF3B30"/> <img src="https://img.shields.io/badge/TailwindCSS-0D0D0D?style=flat-square&logo=tailwindcss&logoColor=FF3B30"/>
 
 [`repo`](https://github.com/daks-2k25/Vittace) · [`demo`](https://vittace.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🔴 Nano-Skin**
+
+Landing page institucional.
+
+<img src="https://img.shields.io/badge/TypeScript-0D0D0D?style=flat-square&logo=typescript&logoColor=FF3B30"/>
+
+[`repo`](https://github.com/daks-2k25/Nano-Skin) · [`demo`](https://nano-skin.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+**🔴 ATRIA-LANDING**
+
+Landing page de um sistema de gestão para agências de marketing.
+
+<img src="https://img.shields.io/badge/TypeScript-0D0D0D?style=flat-square&logo=typescript&logoColor=FF3B30"/>
+
+[`repo`](https://github.com/daks-2k25/ATRIA-LANDING) · [`demo`](https://atria-landing-nine.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🔴 Sensora-LandingPage**
+
+Landing page da marca Sensora.
+
+<img src="https://img.shields.io/badge/TypeScript-0D0D0D?style=flat-square&logo=typescript&logoColor=FF3B30"/>
+
+[`repo`](https://github.com/daks-2k25/Sensora-LandingPage) · [`demo`](https://sensora-landing-page.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+**🔴 sistema_estacionamento**
+
+Simulador de estacionamento em Python, com lógica condicional e tratamento de erros.
+
+<img src="https://img.shields.io/badge/Python-0D0D0D?style=flat-square&logo=python&logoColor=FF3B30"/>
+
+[`repo`](https://github.com/daks-2k25/sistema_estacionamento)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🔴 Sistema-inventario-Pyhton**
+
+Sistema de gestão e inventário em Python.
+
+<img src="https://img.shields.io/badge/Python-0D0D0D?style=flat-square&logo=python&logoColor=FF3B30"/>
+
+[`repo`](https://github.com/daks-2k25/Sistema-inventario-Pyhton)
 
 </td>
 <td width="50%" valign="top">
@@ -194,15 +273,10 @@ Gerenciador de agenda de contatos.
 
 <img src="https://img.shields.io/github/followers/daks-2k25?style=for-the-badge&labelColor=0D0D0D&color=8B0000&label=FOLLOWERS" alt="followers"/>
 <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0D0D0D&color=8B0000&label=REPOS&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdaks-2k25&query=%24.public_repos" alt="public repos"/>
-<img src="https://img.shields.io/github/languages/top/daks-2k25/daks-2k25?style=for-the-badge&labelColor=0D0D0D&color=8B0000&label=TOP+LANG" alt="top language"/>
 
 <img src="https://streak-stats.demolab.com/?user=daks-2k25&hide_border=true&background=0D0D0D&stroke=FF0000&ring=FF3B30&fire=FF0000&currStreakLabel=FF3B30&sideLabels=E8E8E8&dates=8B0000&currStreakNum=E8E8E8&sideNums=E8E8E8" alt="GitHub Streak"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=daks-2k25&bg_color=0D0D0D&color=FF3B30&line=FF0000&point=FFFFFF&area=true&area_color=FF0000&hide_border=true" alt="Contribution Activity"/>
-
-<sub><code>daks-2k25@github:~$ cat contributions.map</code></sub>
-
-<img src="https://ghchart.rshah.org/FF3B30/daks-2k25" alt="contribution squares" width="100%"/>
 
 <sub><code>daks-2k25@github:~$ ./defend_commits.sh</code></sub>
 
@@ -217,6 +291,8 @@ Gerenciador de agenda de contatos.
 <div align="center">
 
 <a href="https://github.com/daks-2k25"><img src="https://img.shields.io/badge/GITHUB-@daks--2k25-0D0D0D?style=for-the-badge&logo=github&logoColor=FF3B30" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/thiago-freitas-4a1b34261"><img src="https://img.shields.io/badge/LINKEDIN-thiago--freitas-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=FF3B30" alt="LinkedIn"/></a>
+<a href="https://vercel.com/thiagofreitas"><img src="https://img.shields.io/badge/VERCEL-thiagofreitas-0D0D0D?style=for-the-badge&logo=vercel&logoColor=FF3B30" alt="Vercel"/></a>
 <a href="mailto:thiagofreitasdelima9@gmail.com"><img src="https://img.shields.io/badge/EMAIL-thiagofreitasdelima9@gmail.com-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FF3B30" alt="Email"/></a>
 
 </div>

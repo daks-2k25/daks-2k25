@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Gera assets/ship-shooter.svg a partir do calendário REAL de contribuições do GitHub.
+"""Gera assets/ship-shooter.svg e assets/activity-graph.svg a partir do calendário REAL de contribuições do GitHub.
 
 Uso (Actions):  GITHUB_TOKEN=... GITHUB_USER=daks-2k25 python scripts/generate_ship.py
 Teste offline:  python scripts/generate_ship.py --sample
@@ -14,6 +14,7 @@ import urllib.request
 
 USER = os.environ.get("GITHUB_USER", "daks-2k25")
 OUT = os.environ.get("OUT", "assets/ship-shooter.svg")
+ACT_OUT = os.environ.get("ACT_OUT", "assets/activity-graph.svg")
 
 CELL, GAP = 14, 4
 PITCH = CELL + GAP
@@ -151,9 +152,52 @@ def build(weeks):
     return "\n".join(out)
 
 
+def build_activity(weeks, days=30):
+    """Gráfico de linha/área com as contribuições dos últimos `days` dias."""
+    flat = [(d, c) for wk in weeks for d, c, _l, _w in wk][-days:]
+    W, H, L, R, T, B = 1000, 230, 44, 18, 18, 34
+    ymax = max(4, max(c for _d, c in flat))
+    ymax = ((ymax + 3) // 4) * 4
+    pw, ph = W - L - R, H - T - B
+    n = len(flat)
+    px = lambda i: L + (pw * i / (n - 1) if n > 1 else 0)
+    py = lambda v: T + ph - ph * v / ymax
+    pts = [(px(i), py(c)) for i, (_d, c) in enumerate(flat)]
+    line = " ".join(f"{x:.1f},{y:.1f}" for x, y in pts)
+    area = f"{L},{T + ph} " + line + f" {px(n - 1):.1f},{T + ph}"
+    o = [f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="100%" role="img" '
+         f'aria-label="Atividade de contribuição de {USER} nos últimos {days} dias">',
+         '<defs><linearGradient id="ag" x1="0" y1="0" x2="0" y2="1">'
+         '<stop offset="0" stop-color="#ff3b30" stop-opacity=".45"/>'
+         '<stop offset="1" stop-color="#ff3b30" stop-opacity="0"/></linearGradient></defs>',
+         f'<rect width="{W}" height="{H}" rx="10" fill="{BG}"/>',
+         '<style>text{font:11px "JetBrains Mono",ui-monospace,monospace;fill:#8b949e}</style>']
+    for k in range(5):
+        v = ymax * k / 4
+        y = py(v)
+        o.append(f'<line x1="{L}" x2="{W - R}" y1="{y:.1f}" y2="{y:.1f}" stroke="#2a1417" stroke-width="1"/>')
+        o.append(f'<text x="{L - 8}" y="{y + 4:.1f}" text-anchor="end">{int(v)}</text>')
+    step = max(1, n // 6)
+    for i, (d, _c) in enumerate(flat):
+        if i % step == 0 or i == n - 1:
+            dd = dt.date.fromisoformat(d)
+            o.append(f'<text x="{px(i):.1f}" y="{H - 12}" text-anchor="middle">{dd.strftime("%d/%m")}</text>')
+    o.append(f'<polygon points="{area}" fill="url(#ag)"><animate attributeName="opacity" from="0" to="1" dur="1.5s" fill="freeze"/></polygon>')
+    o.append(f'<polyline points="{line}" fill="none" stroke="#ff0000" stroke-width="2.5" stroke-linejoin="round" '
+             'pathLength="1" stroke-dasharray="1" stroke-dashoffset="1">'
+             '<animate attributeName="stroke-dashoffset" from="1" to="0" dur="1.8s" fill="freeze"/></polyline>')
+    for (x, y), (d, c) in zip(pts, flat):
+        o.append(f'<circle cx="{x:.1f}" cy="{y:.1f}" r="3.5" fill="#fff" stroke="#ff3b30" stroke-width="1.5">'
+                 f'<title>{c} contribuição(ões) em {d}</title></circle>')
+    o.append('</svg>')
+    return "\n".join(o)
+
+
 if __name__ == "__main__":
     weeks = sample_weeks() if "--sample" in sys.argv else fetch_weeks()
     os.makedirs(os.path.dirname(OUT) or ".", exist_ok=True)
     with open(OUT, "w", encoding="utf-8") as f:
         f.write(build(weeks))
-    print("ok ->", OUT)
+    with open(ACT_OUT, "w", encoding="utf-8") as f:
+        f.write(build_activity(weeks))
+    print("ok ->", OUT, ACT_OUT)

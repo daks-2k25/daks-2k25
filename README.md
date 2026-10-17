@@ -38,7 +38,7 @@ root@daks-2k25:~$ whoami
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=daks-2k25&style=for-the-badge&color=0D0D0D&label=PROFILE+VIEWS&labelColor=0D0D0D" alt="profile views"/>
+<img src="https://img.shields.io/badge/ADS-UNIVERSIDADE_POSITIVO-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=8B0000" alt="ADS - Universidade Positivo"/>
 <img src="https://img.shields.io/badge/STATUS-ESTAGIANDO_EM_DEV-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=FF0000" alt="estagiando em dev"/>
 
 </div>
@@ -276,7 +276,7 @@ Gerenciador de agenda de contatos.
 
 <img src="https://streak-stats.demolab.com/?user=daks-2k25&hide_border=true&background=0D0D0D&stroke=FF0000&ring=FF3B30&fire=FF0000&currStreakLabel=FF3B30&sideLabels=E8E8E8&dates=8B0000&currStreakNum=E8E8E8&sideNums=E8E8E8" alt="GitHub Streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=daks-2k25&bg_color=0D0D0D&color=FF3B30&line=FF0000&point=FFFFFF&area=true&area_color=FF0000&hide_border=true" alt="Contribution Activity"/>
+<img src="assets/activity-graph.svg" width="100%" alt="Atividade de contribuição"/>
 
 <sub><code>daks-2k25@github:~$ ./defend_commits.sh</code></sub>
 

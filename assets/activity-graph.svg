@@ -12,43 +12,43 @@
 <text x="36" y="66.5" text-anchor="end">15</text>
 <line x1="44" x2="982" y1="18.0" y2="18.0" stroke="#2a1417" stroke-width="1"/>
 <text x="36" y="22.0" text-anchor="end">20</text>
-<text x="44.0" y="218" text-anchor="middle">01/10</text>
-<text x="205.7" y="218" text-anchor="middle">06/10</text>
-<text x="367.4" y="218" text-anchor="middle">11/10</text>
-<text x="529.2" y="218" text-anchor="middle">16/10</text>
-<text x="690.9" y="218" text-anchor="middle">21/10</text>
-<text x="852.6" y="218" text-anchor="middle">26/10</text>
-<text x="982.0" y="218" text-anchor="middle">30/10</text>
-<polygon points="44,196 44.0,160.4 76.3,196.0 108.7,196.0 141.0,196.0 173.4,71.4 205.7,26.9 238.1,151.5 270.4,142.6 302.8,196.0 335.1,196.0 367.4,196.0 399.8,196.0 432.1,124.8 464.5,107.0 496.8,124.8 529.2,151.5 561.5,133.7 593.9,196.0 626.2,124.8 658.6,98.1 690.9,133.7 723.2,115.9 755.6,196.0 787.9,196.0 820.3,196.0 852.6,107.0 885.0,80.3 917.3,133.7 949.7,26.9 982.0,196.0 982.0,196" fill="url(#ag)"><animate attributeName="opacity" from="0" to="1" dur="1.5s" fill="freeze"/></polygon>
-<polyline points="44.0,160.4 76.3,196.0 108.7,196.0 141.0,196.0 173.4,71.4 205.7,26.9 238.1,151.5 270.4,142.6 302.8,196.0 335.1,196.0 367.4,196.0 399.8,196.0 432.1,124.8 464.5,107.0 496.8,124.8 529.2,151.5 561.5,133.7 593.9,196.0 626.2,124.8 658.6,98.1 690.9,133.7 723.2,115.9 755.6,196.0 787.9,196.0 820.3,196.0 852.6,107.0 885.0,80.3 917.3,133.7 949.7,26.9 982.0,196.0" fill="none" stroke="#ff0000" stroke-width="2.5" stroke-linejoin="round" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1"><animate attributeName="stroke-dashoffset" from="1" to="0" dur="1.8s" fill="freeze"/></polyline>
-<circle cx="44.0" cy="160.4" r="3.5" fill="#fff" stroke="#ff3b30" stroke-width="1.5"><title>4 contribuição(ões) em 2026-10-01</title></circle>
-<circle cx="76.3" cy="196.0" r="3.5" fill="#fff" stroke="#ff3b30" stroke-width="1.5"><title>0 contribuição(ões) em 2026-10-02</title></circle>
-<circle cx="108.7" cy="196.0" r="3.5" fill="#fff" stroke="#ff3b30" stroke-width="1.5"><title>0 contribuição(ões) em 2026-10-03</title></circle>
-<circle cx="141.0" cy="196.0" r="3.5" fill="#fff" stroke="#ff3b30" stroke-width="1.5"><title>0 contribuição(ões) em 2026-10-04</title></circle>
-<circle cx="173.4" cy="71.4" r="3.5" fill="#fff" stroke="#ff3b30" stroke-width="1.5"><title>14 contribuição(ões) em 2026-10-05</title></circle>
-<circle cx="205.7" cy="26.9" r="3.5" fill="#fff" stroke="#ff3b30" stroke-width="1.5"><title>19 contribuição(ões) em 2026-10-06</title></circle>
-<circle cx="238.1" cy="151.5" r="3.5" fill="#fff" stroke="#ff3b30" stroke-width="1.5"><title>5 contribuição(ões) em 2026-10-07</title></circle>
-<circle cx="270.4" cy="142.6" r="3.5" fill="#fff" stroke="#ff3b30" stroke-width="1.5"><title>6 contribuição(ões) em 2026-10-08</title></circle>
-<circle cx="302.8" cy="196.0" r="3.5" fill="#fff" stroke="#ff3b30" stroke-width="1.5"><title>0 contribuição(ões) em 2026-10-09</title></circle>
-<circle cx="335.1" cy="196.0" r="3.5" fill="#fff" stroke="#ff3b30" stroke-width="1.5"><title>0 contribuição(ões) em 2026-10-10</title></circle>
-<circle cx="367.4" cy="196.0" r="3.5" fill="#fff" stroke="#ff3b30" stroke-width="1.5"><title>0 contribuição(ões) em 2026-10-11</title></circle>
-<circle cx="399.8" cy="196.0" r="3.5" fill="#fff" stroke="#ff3b30" stroke-width="1.5"><title>0 contribuição(ões) em 2026-10-12</title></circle>
-<circle cx="432.1" cy="124.8" r="3.5" fill="#fff" stroke="#ff3b30" stroke-width="1.5"><title>8 contribuição(ões) em 2026-10-13</title></circle>
-<circle cx="464.5" cy="107.0" r="3.5" fill="#fff" stroke="#ff3b30" stroke-width="1.5"><title>10 contribuição(ões) em 2026-10-14</title></circle>
-<circle cx="496.8" cy="124.8" r="3.5" fill="#fff" stroke="#ff3b30" stroke-width="1.5"><title>8 contribuição(ões) em 2026-10-15</title></circle>
-<circle cx="529.2" cy="151.5" r="3.5" fill="#fff" stroke="#ff3b30" stroke-width="1.5"><title>5 contribuição(ões) em 2026-10-16</title></circle>
-<circle cx="561.5" cy="133.7" r="3.5" fill="#fff" stroke="#ff3b30" stroke-width="1.5"><title>7 contribuição(ões) em 2026-10-17</title></circle>
-<circle cx="593.9" cy="196.0" r="3.5" fill="#fff" stroke="#ff3b30" stroke-width="1.5"><title>0 contribuição(ões) em 2026-10-18</title></circle>
-<circle cx="626.2" cy="124.8" r="3.5" fill="#fff" stroke="#ff3b30" stroke-width="1.5"><title>8 contribuição(ões) em 2026-10-19</title></circle>
-<circle cx="658.6" cy="98.1" r="3.5" fill="#fff" stroke="#ff3b30" stroke-width="1.5"><title>11 contribuição(ões) em 2026-10-20</title></circle>
-<circle cx="690.9" cy="133.7" r="3.5" fill="#fff" stroke="#ff3b30" stroke-width="1.5"><title>7 contribuição(ões) em 2026-10-21</title></circle>
-<circle cx="723.2" cy="115.9" r="3.5" fill="#fff" stroke="#ff3b30" stroke-width="1.5"><title>9 contribuição(ões) em 2026-10-22</title></circle>
-<circle cx="755.6" cy="196.0" r="3.5" fill="#fff" stroke="#ff3b30" stroke-width="1.5"><title>0 contribuição(ões) em 2026-10-23</title></circle>
-<circle cx="787.9" cy="196.0" r="3.5" fill="#fff" stroke="#ff3b30" stroke-width="1.5"><title>0 contribuição(ões) em 2026-10-24</title></circle>
-<circle cx="820.3" cy="196.0" r="3.5" fill="#fff" stroke="#ff3b30" stroke-width="1.5"><title>0 contribuição(ões) em 2026-10-25</title></circle>
-<circle cx="852.6" cy="107.0" r="3.5" fill="#fff" stroke="#ff3b30" stroke-width="1.5"><title>10 contribuição(ões) em 2026-10-26</title></circle>
-<circle cx="885.0" cy="80.3" r="3.5" fill="#fff" stroke="#ff3b30" stroke-width="1.5"><title>13 contribuição(ões) em 2026-10-27</title></circle>
-<circle cx="917.3" cy="133.7" r="3.5" fill="#fff" stroke="#ff3b30" stroke-width="1.5"><title>7 contribuição(ões) em 2026-10-28</title></circle>
-<circle cx="949.7" cy="26.9" r="3.5" fill="#fff" stroke="#ff3b30" stroke-width="1.5"><title>19 contribuição(ões) em 2026-10-29</title></circle>
-<circle cx="982.0" cy="196.0" r="3.5" fill="#fff" stroke="#ff3b30" stroke-width="1.5"><title>0 contribuição(ões) em 2026-10-30</title></circle>
+<text x="44.0" y="218" text-anchor="middle">02/10</text>
+<text x="205.7" y="218" text-anchor="middle">07/10</text>
+<text x="367.4" y="218" text-anchor="middle">12/10</text>
+<text x="529.2" y="218" text-anchor="middle">17/10</text>
+<text x="690.9" y="218" text-anchor="middle">22/10</text>
+<text x="852.6" y="218" text-anchor="middle">27/10</text>
+<text x="982.0" y="218" text-anchor="middle">31/10</text>
+<polygon points="44,196 44.0,196.0 76.3,196.0 108.7,196.0 141.0,71.4 173.4,26.9 205.7,151.5 238.1,142.6 270.4,196.0 302.8,196.0 335.1,196.0 367.4,196.0 399.8,124.8 432.1,107.0 464.5,124.8 496.8,151.5 529.2,133.7 561.5,196.0 593.9,124.8 626.2,98.1 658.6,133.7 690.9,115.9 723.2,196.0 755.6,196.0 787.9,196.0 820.3,107.0 852.6,80.3 885.0,133.7 917.3,26.9 949.7,71.4 982.0,196.0 982.0,196" fill="url(#ag)"><animate attributeName="opacity" from="0" to="1" dur="1.5s" fill="freeze"/></polygon>
+<polyline points="44.0,196.0 76.3,196.0 108.7,196.0 141.0,71.4 173.4,26.9 205.7,151.5 238.1,142.6 270.4,196.0 302.8,196.0 335.1,196.0 367.4,196.0 399.8,124.8 432.1,107.0 464.5,124.8 496.8,151.5 529.2,133.7 561.5,196.0 593.9,124.8 626.2,98.1 658.6,133.7 690.9,115.9 723.2,196.0 755.6,196.0 787.9,196.0 820.3,107.0 852.6,80.3 885.0,133.7 917.3,26.9 949.7,71.4 982.0,196.0" fill="none" stroke="#ff0000" stroke-width="2.5" stroke-linejoin="round" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1"><animate attributeName="stroke-dashoffset" from="1" to="0" dur="1.8s" fill="freeze"/></polyline>
+<circle cx="44.0" cy="196.0" r="3.5" fill="#fff" stroke="#ff3b30" stroke-width="1.5"><title>0 contribuição(ões) em 2026-10-02</title></circle>
+<circle cx="76.3" cy="196.0" r="3.5" fill="#fff" stroke="#ff3b30" stroke-width="1.5"><title>0 contribuição(ões) em 2026-10-03</title></circle>
+<circle cx="108.7" cy="196.0" r="3.5" fill="#fff" stroke="#ff3b30" stroke-width="1.5"><title>0 contribuição(ões) em 2026-10-04</title></circle>
+<circle cx="141.0" cy="71.4" r="3.5" fill="#fff" stroke="#ff3b30" stroke-width="1.5"><title>14 contribuição(ões) em 2026-10-05</title></circle>
+<circle cx="173.4" cy="26.9" r="3.5" fill="#fff" stroke="#ff3b30" stroke-width="1.5"><title>19 contribuição(ões) em 2026-10-06</title></circle>
+<circle cx="205.7" cy="151.5" r="3.5" fill="#fff" stroke="#ff3b30" stroke-width="1.5"><title>5 contribuição(ões) em 2026-10-07</title></circle>
+<circle cx="238.1" cy="142.6" r="3.5" fill="#fff" stroke="#ff3b30" stroke-width="1.5"><title>6 contribuição(ões) em 2026-10-08</title></circle>
+<circle cx="270.4" cy="196.0" r="3.5" fill="#fff" stroke="#ff3b30" stroke-width="1.5"><title>0 contribuição(ões) em 2026-10-09</title></circle>
+<circle cx="302.8" cy="196.0" r="3.5" fill="#fff" stroke="#ff3b30" stroke-width="1.5"><title>0 contribuição(ões) em 2026-10-10</title></circle>
+<circle cx="335.1" cy="196.0" r="3.5" fill="#fff" stroke="#ff3b30" stroke-width="1.5"><title>0 contribuição(ões) em 2026-10-11</title></circle>
+<circle cx="367.4" cy="196.0" r="3.5" fill="#fff" stroke="#ff3b30" stroke-width="1.5"><title>0 contribuição(ões) em 2026-10-12</title></circle>
+<circle cx="399.8" cy="124.8" r="3.5" fill="#fff" stroke="#ff3b30" stroke-width="1.5"><title>8 contribuição(ões) em 2026-10-13</title></circle>
+<circle cx="432.1" cy="107.0" r="3.5" fill="#fff" stroke="#ff3b30" stroke-width="1.5"><title>10 contribuição(ões) em 2026-10-14</title></circle>
+<circle cx="464.5" cy="124.8" r="3.5" fill="#fff" stroke="#ff3b30" stroke-width="1.5"><title>8 contribuição(ões) em 2026-10-15</title></circle>
+<circle cx="496.8" cy="151.5" r="3.5" fill="#fff" stroke="#ff3b30" stroke-width="1.5"><title>5 contribuição(ões) em 2026-10-16</title></circle>
+<circle cx="529.2" cy="133.7" r="3.5" fill="#fff" stroke="#ff3b30" stroke-width="1.5"><title>7 contribuição(ões) em 2026-10-17</title></circle>
+<circle cx="561.5" cy="196.0" r="3.5" fill="#fff" stroke="#ff3b30" stroke-width="1.5"><title>0 contribuição(ões) em 2026-10-18</title></circle>
+<circle cx="593.9" cy="124.8" r="3.5" fill="#fff" stroke="#ff3b30" stroke-width="1.5"><title>8 contribuição(ões) em 2026-10-19</title></circle>
+<circle cx="626.2" cy="98.1" r="3.5" fill="#fff" stroke="#ff3b30" stroke-width="1.5"><title>11 contribuição(ões) em 2026-10-20</title></circle>
+<circle cx="658.6" cy="133.7" r="3.5" fill="#fff" stroke="#ff3b30" stroke-width="1.5"><title>7 contribuição(ões) em 2026-10-21</title></circle>
+<circle cx="690.9" cy="115.9" r="3.5" fill="#fff" stroke="#ff3b30" stroke-width="1.5"><title>9 contribuição(ões) em 2026-10-22</title></circle>
+<circle cx="723.2" cy="196.0" r="3.5" fill="#fff" stroke="#ff3b30" stroke-width="1.5"><title>0 contribuição(ões) em 2026-10-23</title></circle>
+<circle cx="755.6" cy="196.0" r="3.5" fill="#fff" stroke="#ff3b30" stroke-width="1.5"><title>0 contribuição(ões) em 2026-10-24</title></circle>
+<circle cx="787.9" cy="196.0" r="3.5" fill="#fff" stroke="#ff3b30" stroke-width="1.5"><title>0 contribuição(ões) em 2026-10-25</title></circle>
+<circle cx="820.3" cy="107.0" r="3.5" fill="#fff" stroke="#ff3b30" stroke-width="1.5"><title>10 contribuição(ões) em 2026-10-26</title></circle>
+<circle cx="852.6" cy="80.3" r="3.5" fill="#fff" stroke="#ff3b30" stroke-width="1.5"><title>13 contribuição(ões) em 2026-10-27</title></circle>
+<circle cx="885.0" cy="133.7" r="3.5" fill="#fff" stroke="#ff3b30" stroke-width="1.5"><title>7 contribuição(ões) em 2026-10-28</title></circle>
+<circle cx="917.3" cy="26.9" r="3.5" fill="#fff" stroke="#ff3b30" stroke-width="1.5"><title>19 contribuição(ões) em 2026-10-29</title></circle>
+<circle cx="949.7" cy="71.4" r="3.5" fill="#fff" stroke="#ff3b30" stroke-width="1.5"><title>14 contribuição(ões) em 2026-10-30</title></circle>
+<circle cx="982.0" cy="196.0" r="3.5" fill="#fff" stroke="#ff3b30" stroke-width="1.5"><title>0 contribuição(ões) em 2026-10-31</title></circle>
 </svg>

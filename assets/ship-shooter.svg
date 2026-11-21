@@ -387,6 +387,7 @@
 <rect x="970" y="76" width="14" height="14" rx="3" fill="#8b1a1f"><title>5 contribuição(ões) em 2026-11-18</title></rect>
 <rect x="970" y="94" width="14" height="14" rx="3" fill="#ff3b30"><title>12 contribuição(ões) em 2026-11-19</title><animate attributeName="fill" dur="20.60s" repeatCount="indefinite" keyTimes="0.0000;0.9577;0.9587;0.9990;1.0000" values="#ff3b30;#ff3b30;#ffffff;#ff3b30;#ff3b30"/></rect>
 <rect x="970" y="112" width="14" height="14" rx="3" fill="#1c0f12"><title>0 contribuição(ões) em 2026-11-20</title></rect>
+<rect x="970" y="130" width="14" height="14" rx="3" fill="#1c0f12"><title>0 contribuição(ões) em 2026-11-21</title></rect>
 <rect x="40.0" y="54" width="2" height="120" fill="#ff6b60" opacity="0"><animate attributeName="opacity" dur="20.60s" repeatCount="indefinite" keyTimes="0.0000;0.0364;0.0365;0.0485;0.0486;1.0000" values="0;0;1;1;0;0"/></rect>
 <rect x="346.0" y="54" width="2" height="120" fill="#ff6b60" opacity="0"><animate attributeName="opacity" dur="20.60s" repeatCount="indefinite" keyTimes="0.0000;0.0704;0.0705;0.0825;0.0826;1.0000" values="0;0;1;1;0;0"/></rect>
 <rect x="364.0" y="90" width="2" height="84" fill="#ff6b60" opacity="0"><animate attributeName="opacity" dur="20.60s" repeatCount="indefinite" keyTimes="0.0000;0.1044;0.1045;0.1165;0.1166;1.0000" values="0;0;1;1;0;0"/></rect>
